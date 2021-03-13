@@ -2,13 +2,15 @@
 Based on the data of Food delivery company that is spread across many countries.
 
 
-##########What is RFM Analysis?
+################################################################################
+What is RFM Analysis?
 
 RFM stands for Recency, Frequency, and Monetary value, each corresponding to some key customer trait. These RFM metrics are important indicators of a customer’s behavior because frequency and monetary value affects a customer’s lifetime value, and recency affects retention, a measure of engagement.
 
 
 
-#######RFM — The basics.
+##################################################################################
+RFM — The basics.
 
 RMF is a simple statistical method for categorising customers based on their purchasing behaviour. The behaviour is identified by using only three customer data points: the recency of purchase (R), the frequency of purchases (F) and the mean monetary value of each purchase (M). After some calculations on the RFM data we can create customer segments that are actionable and easy to understand — like the ones below:
 
@@ -35,7 +37,8 @@ Hibernating: Last purchase was long back and low number of orders. May be lost.
 
 
 
-#####Designing appropriate campaigns for above Customers.
+########################################################################################
+Designing appropriate campaigns for above Customers.
 
 Champions: Reward them. They can become evangelists and early adopters of new products.
 
