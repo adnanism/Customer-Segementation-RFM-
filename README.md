@@ -24,7 +24,7 @@ Which group of customers is most likely to respond to your current campaign?
 
 RMF is a simple statistical method for categorising customers based on their purchasing behaviour. The behaviour is identified by using only three customer data points: the recency of purchase (R), the frequency of purchases (F) and the mean monetary value of each purchase (M). After some calculations on the RFM data we can create customer segments that are actionable and easy to understand — like the ones below:
 
-Champions: Bought recently, buy often and spend the most
+Champions: Bought recently, buy often and spend the most.
 Loyal customers: Buy on a regular basis. Responsive to promotions.
 Potential loyalist: Recent customers with average frequency.
 Recent customers: Bought most recently, but not often.
